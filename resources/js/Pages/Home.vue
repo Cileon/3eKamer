@@ -77,25 +77,25 @@
                     <div class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
                         <div class="sm:text-center lg:text-left">
                             <h2 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
-                                Bringing the power of tech
+                                We brengen de kracht van technologie
                                 <br class="xl:hidden"/>
-                                <span class="text-indigo-600">to political Holland</span>
+                                <span class="text-indigo-600">naar politiek Nederland</span>
                             </h2>
                             <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                                Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat
-                                commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
+                                Het is tijd om het debat over te nemen van Den Haag.
+                                Of je nu anoniem wilt blijven of niet, het is nu mogelijk om je mening uit te spreken samen met andere like-minded Nederlanders.
                             </p>
                             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                                 <div class="rounded-md shadow">
                                     <a href="#"
                                        class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
-                                        Start talking
+                                        Ga het gesprek aan
                                     </a>
                                 </div>
                                 <div class="mt-3 sm:mt-0 sm:ml-3">
                                     <a href="#"
                                        class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-700 bg-indigo-100 hover:text-indigo-600 hover:bg-indigo-50 focus:outline-none focus:shadow-outline focus:border-indigo-300 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
-                                        Learn more
+                                        Lees meer
                                     </a>
                                 </div>
                             </div>
@@ -118,13 +118,13 @@
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center">
                     <p class="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase">
-                        Transactions</p>
+                        Online Discussie</p>
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
-                        A better way to send money
+                        Een betere manier om politiek te bespreken, met iedereen.
                     </h3>
                     <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-                        Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate
-                        veritatis in accusamus quisquam.
+                        DING is een volksvergadering dat afstand uit de oud-Germaanse tijd. Hierin werd rechtgesproken door de aanwezigen in die vergadering.
+                        Hieronder lees je enkele eigenschappen van DING. Onze beloftes aan jou.
                     </p>
                 </div>
 
@@ -142,11 +142,10 @@
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Competitive exchange
-                                        rates</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Verschillende kamers voor verschillende onderwerpen</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit
-                                        perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        Of je nu over COVID-19 wilt spreken of over de manier hoe de overheid privé API’s gebruikt om stoplichten aan te sturen, er is voor elk onderwerp een kamer.
+                                        Is er geen kamer voor het onderwerp wat jij wilt bespreken? Dan kun je een nieuwe kamer aanmaken.
                                     </p>
                                 </div>
                             </div>
@@ -163,10 +162,10 @@
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">No hidden fees</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Politiek profiel</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit
-                                        perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        Om ons DING te gebruiken, zul je een politiek profiel moeten aanmaken.
+                                        Dit is zodat andere gebruikers beter kunnen begrijpen waar jouw meningen op gebaseerd zijn.
                                     </p>
                                 </div>
                             </div>
@@ -183,10 +182,10 @@
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Transfers are instant</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Compleet gratis</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit
-                                        perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        Vrijheid van meningsuiting is niet gereserveerd voor de politici in Den Haag. Het is vrij voor iedereen.
+                                        Daarom is ons platform kosteloos.
                                     </p>
                                 </div>
                             </div>
@@ -203,10 +202,10 @@
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Mobile notifications</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Progressief, ook in onze technologie.</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit
-                                        perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        Een fysieke installatie is beschikbaar naast de Markthal in Rotterdam. In deze installatie wordt het debat aangegaan. Om dit openbaar voor iedereen te maken wordt dit live uitgezonden. Je privacy is erg belangrijk voor ons, daarom wordt je gezicht niet uitgezonden en wordt je stem vervormd. Enkel je avatar is zichtbaar.
+                                        Om ervoor te zorgen dat iedereen gebruik kan maken van ons platform, kun je het op elk apparaat gebruiken. Of het nu een laptop of een telefoon is, er is altijd een mogelijkheid om je mening te delen. Geen excuusjes meer om de discussie niet aan te gaan.
                                     </p>
                                 </div>
                             </div>
