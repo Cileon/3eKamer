@@ -1,6 +1,8 @@
 import { InertiaApp } from '@inertiajs/inertia-vue'
 import Vue from 'vue'
 
+import "./_blank.scss";
+
 Vue.use(InertiaApp)
 
 const app = document.getElementById('app')
