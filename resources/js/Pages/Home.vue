@@ -9,7 +9,7 @@
                                 <div class="flex items-center justify-between w-full md:w-auto">
                                     <a href="#">
                                         <img class="h-8 w-auto sm:h-10"
-                                             src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg" alt=""/>
+                                             src="/images/Ding_Concept_Logo.svg" alt=""/>
                                     </a>
                                     <div class="-mr-2 flex items-center md:hidden">
                                         <button @click="open = true" type="button"
@@ -22,7 +22,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="hidden md:block md:ml-10 md:pr-4">
+                            <div class="hidden md:block md:ml-10 md:pr-4" style="display:none;">
                                 <a href="#"
                                    class="font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Home</a>
                                 <a href="#"
@@ -118,7 +118,7 @@
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center">
                     <p class="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase">
-                        Online Discussie</p>
+                        Online Debat</p>
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
                         Een betere manier om politiek te bespreken, met iedereen.
                     </h3>
@@ -137,7 +137,7 @@
                                         class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                                         <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                                  d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/>
+                                                  d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"/>
                                         </svg>
                                     </div>
                                 </div>
@@ -197,7 +197,7 @@
                                         class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                                         <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                                  d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"/>
+                                                  d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/>
                                         </svg>
                                     </div>
                                 </div>
