@@ -251,6 +251,61 @@
                 </div>
             </div>
         </div>
+		<div class="py-12 bg-blackblack">
+			<div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
+				<div id="onsteam" class="lg:text-center">
+					<h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
+						Onderzoek
+					</h3>
+					<p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+						Hoe kunnen we jongeren bewust maken over privacyrisico's?
+					</p>
+					<br>
+					<ul>
+						<li>
+							Chilling effect? Wat is dat?
+						</li>
+						<li>
+							Gedrasgen jongeren zich anders online?
+						</li>
+						<li>
+							Waar denken jongeren aan bij termen zoals Social Cooling & Chilling Effect?
+						</li>
+						<li>
+							Wat denken de jongeren dat het effect is van social cooling?
+						</li>
+						<li>
+							Hoe denken jongeren dat hun eigen kinderen om zullen gaan met online bezigheden?
+						</li>
+					</ul>
+				</div>
+				// QUOTE:  Veel jongeren willen de controle over hun persoonsgegevens dus wel in eigen handen nemen om baas te blijven over hun online imago, maar zijn op institutioneel niveau, bijv. in het controleren of voorkomen van de ‘schimmige’ kanten van datamining, minder daadkrachtig.
+			</div>
+		</div>
+		<div class="py-12 bg-blackblack">
+			<div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
+				<div id="onsteam" class="lg:text-center">
+					<h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
+						Insights
+					</h3>
+					// VIER BLOKJKES: privacy impactvol bewustwording activerend
+				</div>
+			</div>
+		</div>
+		<div class="py-12 bg-blackblack">
+			<div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
+				<div id="onsteam" class="lg:text-center">
+					<h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
+						Creative Sessie
+					</h3>
+					<br>
+					<br>
+					<img src="/images/creative.png" />
+					<br>
+					
+				</div>
+			</div>
+		</div>
     </div>
 </template>
 
