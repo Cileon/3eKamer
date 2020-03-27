@@ -82,8 +82,7 @@
                                 <span class="text-indigo-600">naar politiek Nederland</span>
                             </h2>
                             <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                                Het is tijd om het debat over te nemen van Den Haag.
-                                Of je nu anoniem wilt blijven of niet, het is nu mogelijk om je mening uit te spreken samen met andere like-minded Nederlanders.
+                                In dit project zoeken we uit hoe wij jongeren bewust(er) kunnen maken van social cooling. Dit proberen wij te realiseren door een concept uit te werken genaamd DING.
                             </p>
                             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                                 <div class="rounded-md shadow">
@@ -93,9 +92,9 @@
                                     </a>
                                 </div>
                                 <div class="mt-3 sm:mt-0 sm:ml-3">
-                                    <a href="#"
+                                    <a href="#onsteam"
                                        class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-700 bg-indigo-100 hover:text-indigo-600 hover:bg-indigo-50 focus:outline-none focus:shadow-outline focus:border-indigo-300 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
-                                        Lees meer
+                                        Ons Team
                                     </a>
                                 </div>
                             </div>
@@ -114,6 +113,11 @@
                      alt=""/>
             </div>
         </div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
         <div class="py-12 bg-white">
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center">
@@ -127,7 +131,11 @@
                         Hieronder lees je enkele eigenschappen van DING. Onze beloftes aan jou.
                     </p>
                 </div>
-
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
                 <div class="mt-10">
                     <ul class="md:grid md:grid-cols-2 md:col-gap-8 md:row-gap-10">
                         <li>
@@ -211,6 +219,35 @@
                             </div>
                         </li>
                     </ul>
+                </div>
+            </div>
+        </div>
+		<br>
+		<br>
+		<embed src="/pdf/poster.pdf" type="application/pdf" width="100%">
+		<div class="py-12 bg-blackblack">
+            <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div id="onsteam" class="lg:text-center">
+                    <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
+                        Wij zijn team Normalin
+                    </h3>
+                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+                        Wij zijn een jong team bestaande uit vijf personen, en willen zorgen voor een bewustere online gedachtengang vooral gericht op jongeren.
+                    </p>
+                </div>
+				<br>
+				<br>
+				<br>
+				<div>
+					<img src="/images/team.png" />
+				</div>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+                <div class="mt-10">
+                    
                 </div>
             </div>
         </div>
