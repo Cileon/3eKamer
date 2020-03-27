@@ -251,9 +251,7 @@
         </div>
         <br>
         <br>
-
         <embed src="/pdf/poster.pdf" type="application/pdf" width="100%" height="1700px">
-
         <div class="py-12 bg-blackblack">
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center" id="onsteam">
@@ -306,22 +304,9 @@
 
                             </div></div>
                 </div>
-                <div class="flex flex-col bg-white px-8 py-6 max-w-sm mx-auto rounded-lg shadow-lg mt-4">
-                    <div class="flex justify-center items-center">
-                        <a class="px-2 py-1 bg-gray-600 text-sm text-green-100 rounded" href="#">QUOTE</a>
-                    </div>
-                    <div class="mt-4">
-                        <a class="text-lg text-gray-700 font-medium" href="#">"Veel jongeren willen de controle over hun persoonsgegevens dus wel in eigen handen nemen om
-                            baas te blijven over hun online imago, maar zijn op institutioneel niveau, bijv. in het controleren of
-                            voorkomen van de ‘schimmige’ kanten van datamining, minder daadkrachtig."</a>
-                    </div>
-                    <div class="flex justify-between items-center mt-4">
-                        <div class="flex items-center">
-                            <a class="text-gray-700 text-sm mx-3" href="#">Anoniem.</a>
-                        </div>
-                        <span class="font-light text-sm text-gray-600">Mar 10, 2020</span>
-                    </div>
-                </div>
+   <div class="text-center text-xl text-white mt-24 italic">"Veel jongeren willen de controle over hun persoonsgegevens dus wel in eigen handen nemen om
+       baas te blijven over hun online imago, maar zijn op institutioneel niveau, bijv. in het controleren of
+       voorkomen van de ‘schimmige’ kanten van datamining, minder daadkrachtig."</div>
 
             </div>
         </div>
