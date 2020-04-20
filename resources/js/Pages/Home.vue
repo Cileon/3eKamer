@@ -13,7 +13,7 @@
                                     </a>
                                     <div class="-mr-2 flex items-center md:hidden">
                                         <button @click="open = true"
-                                                class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out"
+                                                class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-700 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-700 transition duration-150 ease-in-out"
                                                 type="button">
                                             <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                 <path d="M4 6h16M4 12h16M4 18h16" stroke-linecap="round"
@@ -25,11 +25,11 @@
                                 </div>
                             </div>
                             <div class="hidden md:block md:ml-10 md:pr-4" style="display:none;">
-                                <a class="font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
+                                <a class="font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
                                    href="#">Home</a>
-                                <a class="ml-8 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
+                                <a class="ml-8 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
                                    href="#">About</a>
-                                <a class="ml-8 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
+                                <a class="ml-8 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
                                    href="#">Vision</a>
                             </div>
                         </nav>
@@ -49,7 +49,7 @@
                                     </div>
                                     <div class="-mr-2">
                                         <button @click="open = false"
-                                                class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out"
+                                                class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-700 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-700 transition duration-150 ease-in-out"
                                                 type="button">
                                             <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                 <path d="M6 18L18 6M6 6l12 12" stroke-linecap="round"
@@ -86,7 +86,7 @@
                                 <br class="xl:hidden"/>
                                 <span class="text-indigo-600">naar politiek Nederland</span>
                             </h2>
-                            <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                            <p class="mt-3 text-base text-gray-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                                 In dit project zoeken we uit hoe wij jongeren bewust(er) kunnen maken van social
                                 cooling. Dit proberen wij te realiseren door een concept uit te werken genaamd DING.
                             </p>
@@ -128,11 +128,24 @@
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center">
                     <p class="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase">
+                        De huidige situatie.</p>
+                    <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
+                        Je hebt zoveel vragen en meningen, maar je kan ze nergens kwijt.
+                    </h3>
+                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
+                        Je hebt zoveel vragen en meningen, maar je kan ze nergens kwijt.
+                        Jouw mening is belangrijk voor jezelf, we willen allemaal onze stem laten horen en het liefste mensen vinden die deze mening delen. Waar begin je? Word mijn stem wel echt gehoord en zijn er wel mensen die dezelfde mening delen? Je wilt je leeftijdsgenoten vinden want je vind dat deze jouw meningen wel kunnen begrijpen en waarderen. Je wordt beschouwd als jong volwassenen, je bent de toekomst van ons land notabene. Wij zijn dat ook en wij willen dat ook, daarom hebben wij DING in het leven geroepen.
+
+                        Ding is open en voor iedereen vanaf 18 jaar omdat jij ook op deze leeftijd stemrecht krijgt. Het is wel belangrijk dat je ook echt actief mee wilt praten en enige kennis hebt van het onderwerp, alhoewel dit niet verplicht is. Hierdoor hopen wij met DING krachtige en leerzame debatten te kunnen voeren over prikkelende onderwerpen voor de burger zodat iedereen zijn mening gehoord kan worden.
+                    </p>
+                </div>
+                <div class="lg:text-center">
+                    <p class="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase mt-12">
                         Online Debat</p>
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
                         Een betere manier om politiek te bespreken, met iedereen.
                     </h3>
-                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
                         DING is een volksvergadering dat afstand uit de oud-Germaanse tijd. Hierin werd rechtgesproken
                         door de aanwezigen in die vergadering.
                         Hieronder lees je enkele eigenschappen van DING. Onze beloftes aan jou.
@@ -161,7 +174,7 @@
                                 <div class="ml-4">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Verschillende kamers voor
                                         verschillende onderwerpen</h5>
-                                    <p class="mt-2 text-base leading-6 text-gray-500">
+                                    <p class="mt-2 text-base leading-6 text-gray-700">
                                         Of je nu over COVID-19 wilt spreken of over de manier hoe de overheid privé
                                         API’s gebruikt om stoplichten aan te sturen, er is voor elk onderwerp een kamer.
                                         Is er geen kamer voor het onderwerp wat jij wilt bespreken? Dan kun je een
@@ -185,7 +198,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Politiek profiel</h5>
-                                    <p class="mt-2 text-base leading-6 text-gray-500">
+                                    <p class="mt-2 text-base leading-6 text-gray-700">
                                         Om ons DING te gebruiken, zul je een politiek profiel moeten aanmaken.
                                         Dit is zodat andere gebruikers beter kunnen begrijpen waar jouw meningen op
                                         gebaseerd zijn.
@@ -206,11 +219,9 @@
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Compleet gratis</h5>
-                                    <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Vrijheid van meningsuiting is niet gereserveerd voor de politici in Den Haag.
-                                        Het is vrij voor iedereen.
-                                        Daarom is ons platform kosteloos.
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Anonimiteit</h5>
+                                    <p class="mt-2 text-base leading-6 text-gray-700">
+                                        DING waarborgt jouw privacy. Om deze reden kiezen we ervoor om geen data van jou op te slaan. Ook geen account of dat soort onzin. Je bent gewoon anoniem. De gebruikersnaam voor in de kamer krijg je van ons.
                                     </p>
                                 </div>
                             </div>
@@ -231,7 +242,7 @@
                                 <div class="ml-4">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Progressief, ook in onze
                                         technologie.</h5>
-                                    <p class="mt-2 text-base leading-6 text-gray-500">
+                                    <p class="mt-2 text-base leading-6 text-gray-700">
                                         Een fysieke installatie is beschikbaar naast de Markthal in Rotterdam. In deze
                                         installatie wordt het debat aangegaan. Om dit openbaar voor iedereen te maken
                                         wordt dit live uitgezonden. Je privacy is erg belangrijk voor ons, daarom wordt
@@ -258,7 +269,7 @@
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
                         Wij zijn team Normalin
                     </h3>
-                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
                         Wij zijn een jong team bestaande uit vijf personen, en willen zorgen voor een bewustere online
                         gedachtengang vooral gericht op jongeren.
                     </p>
@@ -285,8 +296,8 @@
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
                         Onderzoek
                     </h3>
-                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-                        Hoe kunnen we jongeren bewust maken over privacyrisico's?
+                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-200 lg:mx-auto">
+                        Je ziet hier vier kernvragen. Deze vragen zijn o.a. Beantwoord vanuit het Google Form formulier wat we in het begin verstuurd hebben.
                     </p>
                     <br>
 
@@ -303,13 +314,38 @@
                             Hoe denken jongeren dat hun eigen kinderen om zullen gaan met online bezigheden?
 
                             </div></div>
+                        <div class="bg-white shadow-lg rounded-lg p-8 mt-8">
+                    <p class="text-base leading-6  font-semibold tracking-wide uppercase">
+                        Onderzoekmethodes.</p>
+                    <div class="flex flex-wrap  text-center text-2xl my-2">
+                        <div class="w-1/2 my-2">
+                            Deskresearch.
+                        </div>
+                        <div class="w-1/2 my-2">
+                         Online enquete.
+                        </div>
+                        <p class="mt-4 max-w-2xl text-xl leading-7  lg:mx-auto">
+                        86% is niet bewust va het Chillings effect
+                        80% is geïnteresseerd in meer te weten te komen over hun data gebruik. Hier wilt men over spreken.
+
+                            Om over het Chillings effect te kunnen spreken zullen verschillende DING-kamers als onderwerp Chilling Effect hebben. Hierin kan relevante informatie besproken worden met de mensen die op dat moment deelnemen aan het debat.</p>
+                    </div>
+                    </div>
                 </div>
    <div class="text-center text-xl text-white mt-24 italic">"Veel jongeren willen de controle over hun persoonsgegevens dus wel in eigen handen nemen om
        baas te blijven over hun online imago, maar zijn op institutioneel niveau, bijv. in het controleren of
        voorkomen van de ‘schimmige’ kanten van datamining, minder daadkrachtig."</div>
 
             </div>
+            <h3 class="mt-8 text-3xl leading-8 font-extrabold text-center tracking-tight text-white sm:text-4xl sm:leading-10">
+                Empathie
+            </h3>
+            <p class="mt-4 max-w-2xl text-xl leading-7 text-white  lg:mx-auto">
+            Anoniem je mening geven en hierover discussieren met andere. Wij begrijpen dat dit iets is waar veel jongeren naar verlangen, wij doen dit namelijk zelf ook. Uit ons onderzoek is gebleken dat niet iedereen zich volledig anoniem voelt via praat medium dus willen wij de ultieme anonieme ervaring bieden voor de gebruikers. Een virtuele omgeving waar zij zonder een identitieit hun gedachtes los kunnen laten gaan en hun rauwe mening kunnen geven.
+            </p>
+
         </div>
+
         <div class="py-12 bg-blackblack">
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center" id="onsteam">
@@ -326,7 +362,7 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Privacy</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-
+                            Dit is onze kernwaarde. Wij willen iedereen het gevoel geven dat ze veilig hun mening kunnen uiten.
                         </div>
                     </div>
 
@@ -338,7 +374,7 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Impactvol</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-
+                            Ons platform werkt. En dat ga je zelf zien zodra je het gaat gebruiken. Wanneer mensen vrijuit hun mening kunnen uiten komen de echte discussies naar boven.
                         </div>
                     </div>
                         </div>
@@ -351,6 +387,7 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Bewustwoording</h2>
                         </div>
                         <div class="flex justify-end mt-4">
+                            Dit platform geeft mensen de kans om over dingen na te denken waar zij misschien normaliter niet over nadenken. Het gevolg hiervan is bewustwording bij de mens zelf.
 
                         </div>
                     </div>
@@ -363,7 +400,7 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Activerend</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-
+                            Ons platform spoort mensen aan om te praten. Wat is jouw mening? Laat het weten! Wij willen een veilige omgeving waar men kan spreken. Omdat dit platform uiteindelijk met conclusies komt zijn dit goede meetlinten die meegenomen kunnen worden in de Tweede Kamer.
                         </div>
                     </div>
                         </div>
@@ -373,15 +410,37 @@
         </div>
         <div class="py-12 bg-blackblack">
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="lg:text-center" id="onsteam">
-                    <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
+                <div id="onsteam">
+                    <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10 mb-4 text-center">
                         Creative Sessie
                     </h3>
-                    <br>
-                    <br>
                     <img src="/images/creative.png"/>
                     <br>
+                    <div class="flex flex-wrap text-white text-2xl my-2">
+                        <div class="w-1/2 my-2">
+                    <p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+                        Men zegt dat een foto meer dan 1000 woorden zegt.Nu zie je op deze foto veel tekst, maar de 1000 halen we niet. Op dit blad zie je alle mogelijke ideeën die we hadden bedacht voor dit project. Deze brainstorm is gehouden in een van de eerste weken van de design challenge. Over deze brainstorm sessie zijn uiteindelijk een aantal concepten gekomen. Deze concepten bevatte onder andere een derde kamer debat, DING, een Sitemap of Data, een programma die laat zien waar jij op internet allemaal te vinden bent en een privacy game show. Wij vonden de reacties over DING zo indrukwekkend dat we hiervoor gekozen hebben.</p>
+                        </div>
+                        <div class="w-1/2 my-2 border-l">
+                            <p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto pl-4">
+                            Extra text
+                            </p>
+                    </div>
+                    </div>
+                    <div class="bg-white shadow-lg rounded-lg p-8 mt-8">
+                    <h3 class="mt-8 text-3xl leading-8 font-extrabold tracking-tight sm:text-4xl sm:leading-10 mb-4 text-center">
+                       Idee vorming
+                    </h3>
+                    <p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+                    Tijdens onze brainstormsessies zijn we met verschillende ideeën gekomen. We hebben deze ideeën gecreëerd door gebruik te maken van een how might we methode en de braindump methode. Door deze twee methodes toe te passen en te discussiëren over onze uitkomsten zijn we uitgekomen op drie ideeën.
 
+                    Deze drie ideeën zijn Sitemap of Data, Privacy Game en de 3e kamer. De derde kamer hebben we omgedoopt tot DING waar je in de onepager verder over kan lezen. Sitemap of Data was een idee om op een openbare plek een scherm neer te zetten en mensen te interviewen. Met deze informatie kunnen we online openbare data opzoeken van deze persoon en een profiel op het scherm laten zien. Zo kunnen we de persoon bewust maken van de data die hij/zij achterlaat op het internet. Privacy game was een idee om een soort van price is right te maken. Maar daar kom je aan zet door middel van het vrijgeven van je data.
+
+                    We hebben de ideeën gekozen door onze ontwerprichtlijnen centraal te houden, daardoor sluiten al deze ideeën aan op onze ontwerpkeuzes. Sitemap of Data en Privacy Game zijn voor ons afgevallen door de corona-crisis, aangezien we DING (de derde kamer) het best in een online omgeving kunnen realiseren. Dit is de beste keuze omdat voor de andere twee ideeën wij persoonlijk aanwezig moeten zijn om dit in een goede baan te kunnen leiden; Sitemap, iemand moet de persoon interviewen en een anders zijn data opzoeken en in een diagram zetten. Privacy Game, we hebben een host nodig publiek en productie. Voor DING kunnen we een veelal autonoom project opzetten. Deze applicatie kan werken zonder dat wij daar invloed op hebben. Bij DING hadden we eerst ook een idee om hiervan een installatie te maken. Door een tent op te zetten en hierin te discussiëren, met sprekers en publiek. Maar door corona hebben we dit omgezet naar een online omgeving waar toevallig ook een goed gevolg aan zit. De online omgeving die we willen creëren geeft meer privacy en meer animo voor onze doelgroep ten opzichte van een discussie op locatie.
+
+                        DING heeft voor ons de juiste bedoelingen maar kan ook veel breder ingezet worden voor andere maatschappelijke problemen. Wij kunnen hier inspelen op veel verschillende meningen en deze ook laten horen door bij andere bewustwording te creëren.</p>
+
+                </div>
                 </div>
             </div>
         </div>
