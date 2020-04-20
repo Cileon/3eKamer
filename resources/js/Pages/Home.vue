@@ -128,24 +128,24 @@
             <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="lg:text-center">
                     <p class="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase">
-                        De huidige situatie.</p>
+                        De situatie</p>
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
-                        Je hebt zoveel vragen en meningen, maar je kan ze nergens kwijt.
+                        Onze visie
                     </h3>
-                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
-                        Je hebt zoveel vragen en meningen, maar je kan ze nergens kwijt.
-                        Jouw mening is belangrijk voor jezelf, we willen allemaal onze stem laten horen en het liefste mensen vinden die deze mening delen. Waar begin je? Word mijn stem wel echt gehoord en zijn er wel mensen die dezelfde mening delen? Je wilt je leeftijdsgenoten vinden want je vind dat deze jouw meningen wel kunnen begrijpen en waarderen. Je wordt beschouwd als jong volwassenen, je bent de toekomst van ons land notabene. Wij zijn dat ook en wij willen dat ook, daarom hebben wij DING in het leven geroepen.
-
-                        Ding is open en voor iedereen vanaf 18 jaar omdat jij ook op deze leeftijd stemrecht krijgt. Het is wel belangrijk dat je ook echt actief mee wilt praten en enige kennis hebt van het onderwerp, alhoewel dit niet verplicht is. Hierdoor hopen wij met DING krachtige en leerzame debatten te kunnen voeren over prikkelende onderwerpen voor de burger zodat iedereen zijn mening gehoord kan worden.
+                    <p class="mt-4 max-w-4xl text-xl leading-7 text-gray-700 lg:mx-auto">
+                        Vele jongeren zijn nog niet op de hoogte van het chillingseffect. De privacy regels worden met de dag overtreden, maar ook weer aangescherpt. 
+						DING is een online platform waar je kan discussieren over deze onderwerpen en dat in anonieme virtuele omgeving. Vele jongeren weten nog niet wat 
+						de impact van privacy breuken kunnen zijn over een langere termijn. Met DING kunnen we deze onderwerpen bespreekbaar maken en met andere jongvolwassenen 
+						het hier over hebben. Je kan zien of je op één lijn staat met elkaar, of er juist andere ideeen en meningen zijn over privacy gevoelige onderwerpen.
                     </p>
                 </div>
                 <div class="lg:text-center">
                     <p class="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase mt-12">
                         Online Debat</p>
                     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
-                        Een betere manier om politiek te bespreken, met iedereen.
+                        Een betere manier om sociale vraagstukken voor te leggen
                     </h3>
-                    <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
+                    <p class="mt-4 max-w-4xl text-xl leading-7 text-gray-700 lg:mx-auto">
                         DING is een volksvergadering dat afstand uit de oud-Germaanse tijd. Hierin werd rechtgesproken
                         door de aanwezigen in die vergadering.
                         Hieronder lees je enkele eigenschappen van DING. Onze beloftes aan jou.
@@ -189,29 +189,6 @@
                                     <div
                                         class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                                         <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                            <path
-                                                d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"
-                                                stroke-linecap="round" stroke-linejoin="round"
-                                                stroke-width="2"/>
-                                        </svg>
-                                    </div>
-                                </div>
-                                <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Politiek profiel</h5>
-                                    <p class="mt-2 text-base leading-6 text-gray-700">
-                                        Om ons DING te gebruiken, zul je een politiek profiel moeten aanmaken.
-                                        Dit is zodat andere gebruikers beter kunnen begrijpen waar jouw meningen op
-                                        gebaseerd zijn.
-                                    </p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="mt-10 md:mt-0">
-                            <div class="flex">
-                                <div class="flex-shrink-0">
-                                    <div
-                                        class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                                        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path d="M13 10V3L4 14h7v7l9-11h-7z" stroke-linecap="round"
                                                   stroke-linejoin="round"
                                                   stroke-width="2"/>
@@ -241,7 +218,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Progressief, ook in onze
-                                        technologie.</h5>
+                                        technologie</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-700">
                                         Een fysieke installatie is beschikbaar naast de Markthal in Rotterdam. In deze
                                         installatie wordt het debat aangegaan. Om dit openbaar voor iedereen te maken
@@ -315,22 +292,36 @@
 
                             </div></div>
                         <div class="bg-white shadow-lg rounded-lg p-8 mt-8">
-                    <p class="text-base leading-6  font-semibold tracking-wide uppercase">
-                        Onderzoekmethodes.</p>
-                    <div class="flex flex-wrap  text-center text-2xl my-2">
-                        <div class="w-1/2 my-2">
-                            Deskresearch.
-                        </div>
-                        <div class="w-1/2 my-2">
-                         Online enquete.
-                        </div>
-                        <p class="mt-4 max-w-2xl text-xl leading-7  lg:mx-auto">
-                        86% is niet bewust va het Chillings effect
-                        80% is geïnteresseerd in meer te weten te komen over hun data gebruik. Hier wilt men over spreken.
+							<p class="text-base leading-6  font-semibold tracking-wide uppercase">Onderzoekmethodes</p>
+							<div class="flex flex-wrap  text-center text-2xl my-2">
+								<div class="w-1/2 my-2">
+									Deskresearch.
+								</div>
+								<div class="w-1/2 my-2">
+									Online enquete.
+								</div>
+								<p class="mt-4 max-w-2xl text-xl leading-7  lg:mx-auto">
+									86% is niet bewust va het Chillings effect
+									80% is geïnteresseerd in meer te weten te komen over hun data gebruik. Hier wilt men over spreken.
 
-                            Om over het Chillings effect te kunnen spreken zullen verschillende DING-kamers als onderwerp Chilling Effect hebben. Hierin kan relevante informatie besproken worden met de mensen die op dat moment deelnemen aan het debat.</p>
-                    </div>
-                    </div>
+									Om over het Chillings effect te kunnen spreken zullen verschillende DING-kamers als onderwerp Chilling Effect hebben. 
+									Hierin kan relevante informatie besproken worden met de mensen die op dat moment deelnemen aan het debat.
+								</p>
+							</div>
+                    	</div>
+						<div class="bg-white shadow-lg rounded-lg p-8 mt-8">
+							<p class="text-base leading-6  font-semibold tracking-wide uppercase">Bronnenlijst</p>
+							<div class="flex flex-wrap my-1">
+								<p class="mt-4 text-m text-left lg:mx-auto">
+									www.headspace.com/blog/2017/05/21/nice-irl-mean-online/ <br>
+									www.theguardian.com/media-network/2015/sep/24/online-offline-personality-digital-identity <br>
+									www.frankwatching.com/archive/2015/05/28/jongeren-vinden-communicatie-in-real-life-stressvol-onderzoek/ <br>
+									www.policyreview.info/articles/analysis/internet-surveillance-regulation-and-chilling-effects-online-comparative-case<br>
+									Griffith, R. (1978). The Chilling Effect. The Wilson Quarterly (1976-), 2(3), 135-137. Retrieved March 3, 2020, from www.jstor.org/stable/40255463 <br>
+									Project-F. `Tegenwoordig speelt social media een grote rol in mijn leven. Ik ben bereid om te kopen via Facebook.` Pinar Arslan (Student) <br>
+								</p>
+							</div>
+                    	</div>
                 </div>
    <div class="text-center text-xl text-white mt-24 italic">"Veel jongeren willen de controle over hun persoonsgegevens dus wel in eigen handen nemen om
        baas te blijven over hun online imago, maar zijn op institutioneel niveau, bijv. in het controleren of
@@ -362,7 +353,8 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Privacy</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-                            Dit is onze kernwaarde. Wij willen iedereen het gevoel geven dat ze veilig hun mening kunnen uiten.
+                            Uit ons onderzoek is gebleken dat jongeren die bewust of onbewust bezig zijn met privacy, wel bereid zijn om meer te willen weten over totale privacy. Of hier een eventuele discussie over te houden. 
+							Ze willen graag een plek waar zij hun mening en vragen kwijt kunnen zonder raar aangekeken te worden.
                         </div>
                     </div>
 
@@ -374,7 +366,7 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Impactvol</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-                            Ons platform werkt. En dat ga je zelf zien zodra je het gaat gebruiken. Wanneer mensen vrijuit hun mening kunnen uiten komen de echte discussies naar boven.
+                            Het ontwerp moet impact creëren zodat het niet alleen een goed concept is maar daadwerkelijk kan leiden tot een veiligere omgeving voor ons allemaal.
                         </div>
                     </div>
                         </div>
@@ -387,8 +379,7 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Bewustwoording</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-                            Dit platform geeft mensen de kans om over dingen na te denken waar zij misschien normaliter niet over nadenken. Het gevolg hiervan is bewustwording bij de mens zelf.
-
+                            Het ontwerp moet bewustwoording creëren omdat uit ons onderzoek blijkt dat 86% van de jongeren niet bewust is van de privacy risico's op platformen zoals Instagram, Twitter en Facebook.
                         </div>
                     </div>
 
@@ -400,7 +391,8 @@
                             <h2 class="text-gray-800 text-3xl font-semibold">Activerend</h2>
                         </div>
                         <div class="flex justify-end mt-4">
-                            Ons platform spoort mensen aan om te praten. Wat is jouw mening? Laat het weten! Wij willen een veilige omgeving waar men kan spreken. Omdat dit platform uiteindelijk met conclusies komt zijn dit goede meetlinten die meegenomen kunnen worden in de Tweede Kamer.
+                            Het ontwerp moet jongeren stimuleren om zelf tot actie te komen. Uit ons onderzoek is gebleken dat vijftien procent wel bewust is van eventuele privacy risico's, 
+							maar niet veel doen als het gaat om deze privacy veiligheid te waarborgen. 
                         </div>
                     </div>
                         </div>
@@ -417,30 +409,39 @@
                     <img src="/images/creative.png"/>
                     <br>
                     <div class="flex flex-wrap text-white text-2xl my-2">
-                        <div class="w-1/2 my-2">
-                    <p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
-                        Men zegt dat een foto meer dan 1000 woorden zegt.Nu zie je op deze foto veel tekst, maar de 1000 halen we niet. Op dit blad zie je alle mogelijke ideeën die we hadden bedacht voor dit project. Deze brainstorm is gehouden in een van de eerste weken van de design challenge. Over deze brainstorm sessie zijn uiteindelijk een aantal concepten gekomen. Deze concepten bevatte onder andere een derde kamer debat, DING, een Sitemap of Data, een programma die laat zien waar jij op internet allemaal te vinden bent en een privacy game show. Wij vonden de reacties over DING zo indrukwekkend dat we hiervoor gekozen hebben.</p>
+                        <div class="w-full my-2">
+							<p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+								Op dit blad zie je alle mogelijke ideeën die we hadden bedacht voor dit project. 
+								Deze brainstorm is gehouden in een van de eerste weken van de design challenge. Over deze brainstorm sessie zijn uiteindelijk een aantal concepten gekomen.</p>
                         </div>
-                        <div class="w-1/2 my-2 border-l">
-                            <p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto pl-4">
-                            Extra text
-                            </p>
-                    </div>
+                        
                     </div>
                     <div class="bg-white shadow-lg rounded-lg p-8 mt-8">
                     <h3 class="mt-8 text-3xl leading-8 font-extrabold tracking-tight sm:text-4xl sm:leading-10 mb-4 text-center">
                        Idee vorming
                     </h3>
-                    <p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
-                    Tijdens onze brainstormsessies zijn we met verschillende ideeën gekomen. We hebben deze ideeën gecreëerd door gebruik te maken van een how might we methode en de braindump methode. Door deze twee methodes toe te passen en te discussiëren over onze uitkomsten zijn we uitgekomen op drie ideeën.
-
-                    Deze drie ideeën zijn Sitemap of Data, Privacy Game en de 3e kamer. De derde kamer hebben we omgedoopt tot DING waar je in de onepager verder over kan lezen. Sitemap of Data was een idee om op een openbare plek een scherm neer te zetten en mensen te interviewen. Met deze informatie kunnen we online openbare data opzoeken van deze persoon en een profiel op het scherm laten zien. Zo kunnen we de persoon bewust maken van de data die hij/zij achterlaat op het internet. Privacy game was een idee om een soort van price is right te maken. Maar daar kom je aan zet door middel van het vrijgeven van je data.
-
-                    We hebben de ideeën gekozen door onze ontwerprichtlijnen centraal te houden, daardoor sluiten al deze ideeën aan op onze ontwerpkeuzes. Sitemap of Data en Privacy Game zijn voor ons afgevallen door de corona-crisis, aangezien we DING (de derde kamer) het best in een online omgeving kunnen realiseren. Dit is de beste keuze omdat voor de andere twee ideeën wij persoonlijk aanwezig moeten zijn om dit in een goede baan te kunnen leiden; Sitemap, iemand moet de persoon interviewen en een anders zijn data opzoeken en in een diagram zetten. Privacy Game, we hebben een host nodig publiek en productie. Voor DING kunnen we een veelal autonoom project opzetten. Deze applicatie kan werken zonder dat wij daar invloed op hebben. Bij DING hadden we eerst ook een idee om hiervan een installatie te maken. Door een tent op te zetten en hierin te discussiëren, met sprekers en publiek. Maar door corona hebben we dit omgezet naar een online omgeving waar toevallig ook een goed gevolg aan zit. De online omgeving die we willen creëren geeft meer privacy en meer animo voor onze doelgroep ten opzichte van een discussie op locatie.
-
-                        DING heeft voor ons de juiste bedoelingen maar kan ook veel breder ingezet worden voor andere maatschappelijke problemen. Wij kunnen hier inspelen op veel verschillende meningen en deze ook laten horen door bij andere bewustwording te creëren.</p>
-
-                </div>
+                    <div class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+						Tijdens onze brainstormsessies zijn we met verschillende ideeën gekomen. We hebben deze ideeën gecreëerd door gebruik te maken van een how might we methode en de braindump methode. 
+						Door deze twee methodes toe te passen en te discussiëren over onze uitkomsten zijn we uitgekomen op drie ideeën.</div>
+						<div class="mt-10"></div>
+						<p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+						Deze drie ideeën zijn Sitemap of Data, Privacy Game en de 3e kamer. De derde kamer hebben we omgedoopt tot DING waar je in de onepager verder over kan lezen. Sitemap of Data was een idee 
+						om op een openbare plek een scherm neer te zetten en mensen te interviewen. Met deze informatie kunnen we online openbare data opzoeken van deze persoon en een profiel op het scherm laten zien. 
+						Zo kunnen we de persoon bewust maken van de data die hij/zij achterlaat op het internet. Privacy game was een idee om een soort van price is right te maken. Maar daar kom je aan zet door middel van 
+						het vrijgeven van je data.</p>
+						<div class="mt-10"></div>
+						<p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+						We hebben de ideeën gekozen door onze ontwerprichtlijnen centraal te houden, daardoor sluiten al deze ideeën aan op onze ontwerpkeuzes. Sitemap of Data en Privacy Game zijn voor ons afgevallen door 
+						de corona-crisis, aangezien we DING (de derde kamer) het best in een online omgeving kunnen realiseren. Dit is de beste keuze omdat voor de andere twee ideeën wij persoonlijk aanwezig moeten zijn om dit 
+						in een goede baan te kunnen leiden; Sitemap, iemand moet de persoon interviewen en een anders zijn data opzoeken en in een diagram zetten. Privacy Game, we hebben een host nodig publiek en productie. Voor 
+						DING kunnen we een veelal autonoom project opzetten. Deze applicatie kan werken zonder dat wij daar invloed op hebben. Bij DING hadden we eerst ook een idee om hiervan een installatie te maken. Door een tent 
+						op te zetten en hierin te discussiëren, met sprekers en publiek. Maar door corona hebben we dit omgezet naar een online omgeving waar toevallig ook een goed gevolg aan zit. De online omgeving die we willen 
+						creëren geeft meer privacy en meer animo voor onze doelgroep ten opzichte van een discussie op locatie.</p>
+						<div class="mt-10"></div>
+						<p class="mt-4 max-w-2xl text-xl leading-7 lg:mx-auto">
+						DING heeft voor ons de juiste bedoelingen maar kan ook veel breder ingezet worden voor andere maatschappelijke problemen. Wij kunnen hier inspelen op veel verschillende meningen en deze ook laten 
+						horen door bij andere bewustwording te creëren.</p>
+					</div>
                 </div>
             </div>
         </div>
